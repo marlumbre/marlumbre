@@ -1,6 +1,4 @@
-Hi, I'm Marlon!
+marlon, he/him, 21y/o
 
-I'm interested in learning things about both hardware and software.
-Right now, I'm studying computer science at university and self-studying Japanese.
+cs student, currently learning web
 
-cya
