@@ -1,4 +1,4 @@
 marlon, he/him, 21y/o
 
-cs student, currently learning web
+cs student
 
