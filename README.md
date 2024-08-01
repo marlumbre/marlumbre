@@ -1,3 +1,3 @@
-marlon, he/him, 21y/o
+marlon, he/him, 22y/o
 
 cs student, currently learning web and ui/ux
