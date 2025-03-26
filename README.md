@@ -1,5 +1,5 @@
 he/him, 22y/o
 
-cs student, currently learning web
+Computer Science student at Cavite State University - Bacoor City Campus
 
-working on the odin project
+Learning web development
