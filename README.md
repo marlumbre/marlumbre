@@ -1,3 +1,3 @@
 he/him, 24y/o
 
-Computer Science graduate at Cavite State University - Bacoor City Campus.
+Computer Science graduate from Cavite State University - Bacoor City Campus.
