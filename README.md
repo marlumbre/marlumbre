@@ -1,5 +1,3 @@
-he/him, 22y/o
+he/him, 24y/o
 
-Computer Science student at Cavite State University - Bacoor City Campus
-
-Learning web development
+Computer Science graduate at Cavite State University - Bacoor City Campus.
